@@ -15,6 +15,6 @@ public class RequestBodyJsonController {
 
     @PostMapping("/request-body-json-v1")
     public void requestBodyJsonV1(HttpServletRequest request, HttpServletResponse response){
-        
+
     }
 }
